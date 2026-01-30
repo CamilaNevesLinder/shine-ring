@@ -15,19 +15,7 @@ function Hero() {
           <h3 className="font-bold text-3xl text-white">
             Anéis de noivado criados para eternizar o amor
           </h3>
-          <button
-            className="
-
-    mt-20
-     px-10 py-4
-    border border-white
-    text-white
-    uppercase tracking-widest
-    text-sm
-    transition
-    hover:bg-white hover:text-black
-  "
-          >
+          <button className=" mt-20   px-10 py-4 border border-white  text-white  uppercase tracking-widest text-sm  transition  hover:bg-white hover:text-black  ">
             Ver coleção
           </button>
         </div>

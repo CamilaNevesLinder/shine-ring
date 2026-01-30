@@ -21,6 +21,9 @@ function Intro() {
 
   return (
     <section>
+      <h2 className="mt-10 text-center font-light uppercase text-4xl tracking-widest ">
+        Best seller
+      </h2>
       <div className="grid grid-cols-3 w-200 gap-6 mx-auto max-w-5xl mt-10 ">
         {models.map((model, index) => (
           <div

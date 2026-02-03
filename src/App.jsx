@@ -1,7 +1,7 @@
 import NavBar from "./components/NavBar";
 import Hero from "./components/Hero";
 import Intro from "./components/Intro";
-import Catalog from "./components/Catalog";
+import Category from "./components/Category";
 
 function App() {
   return (
@@ -9,6 +9,7 @@ function App() {
       <NavBar />
       <Hero />
       <Intro />
+      <Category />
     </div>
   );
 }

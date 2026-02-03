@@ -2,6 +2,7 @@ import NavBar from "./components/NavBar";
 import Hero from "./components/Hero";
 import Intro from "./components/Intro";
 import Category from "./components/Category";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <Hero />
       <Intro />
       <Category />
+      <Footer />
     </div>
   );
 }

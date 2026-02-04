@@ -2,14 +2,6 @@ import { TextAlignJustify } from "lucide-react";
 import { Search } from "lucide-react";
 import { useEffect, useState } from "react";
 
-const Menu = () => {
-  return <TextAlignJustify />;
-};
-
-const Lupa = () => {
-  return <Search />;
-};
-
 function NavBar() {
   const [scrolled, setScrolled] = useState(false);
 
